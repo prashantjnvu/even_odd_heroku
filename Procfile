@@ -1,1 +1,1 @@
-web: streamlit run evenodd.py --server.port $PORT
+web: streamlit run evenodd.py --server.port 8501
