@@ -1,2 +1,8 @@
+numpy
 streamlit==0.76.0
+seaborn
+matplotlib
+plotly
+pandas
+joblib==0.16.0
 scikit-learn
